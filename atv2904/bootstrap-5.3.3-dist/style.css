@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(to right, #EFCEC3, #c58ea3);
+    font-family: "Signika Negative", sans-serif; 
+    color: aliceblue; 
+}
+
+button {
+    background-color: #854AFA;
+    color: white; 
+}
+
+.banner {
+    text-align: center;
+}
+
+.banner img {
+    display: block;
+    margin: 0 auto;
+    max-height: 450px; 
+    width: auto; 
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    color: #8E1A45;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 18rem;
+    margin-bottom: 20px;
+    background-color: #EDD9D1;
+}
+.navbar {
+    background-color: #EDD9D1;
+}
